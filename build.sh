@@ -1,2 +1,2 @@
 #!/bin/sh
-./gradlew build --stacktrace
+gradle build --stacktrace
